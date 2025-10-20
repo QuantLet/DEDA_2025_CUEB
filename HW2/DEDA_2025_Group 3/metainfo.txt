@@ -1,1 +1,17 @@
 
+Name of Quantlet :  DEDA_2025_Group3_HW2
+
+Published in: DEDA_2025_CUEB
+
+Description:	This code generates a synthetic multi-class dataset, trains a Random Forest classifier on it, evaluates the model using accuracy and a classification report, and visualizes both the confusion matrix and the top 10 feature importances to interpret model performance and key predictors.
+
+Submitted: 10 Jul 2025
+
+Keywords:
+- ‘Random Forest Classifier’
+- ’PDF Plot‘
+- ‘Rotating Visualization’
+- ’Random Forests (RF)‘
+- ‘Data Visualization’
+
+Author: Meijun Chen, Mengyu Wu
