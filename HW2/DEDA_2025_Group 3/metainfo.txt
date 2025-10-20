@@ -14,4 +14,4 @@ Keywords:
 - ’Random Forests (RF)‘
 - ‘Data Visualization’
 
-Author: Meijun Chen, Mengyu Wu
+Author: Xiyangzhang
