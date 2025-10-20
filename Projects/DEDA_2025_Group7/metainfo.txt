@@ -8,4 +8,4 @@ Keywords:         ICA, volatility, tail risk, S&P 500, latent risk factors
 
 Author:           Jack Xie
 
-Submitted:        05.01.2024
+Submitted:        23.07.2025
