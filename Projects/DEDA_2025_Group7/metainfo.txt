@@ -1,11 +1,26 @@
-Name of Quantlet: DEDA_2025_Group7
+Name of Quantlet: DEDA_2025_Group7 Project
 
-Published in:    DEDA_2025_CUEB
+Published in: DEDA_2025_CUEB
 
-Description:      This code visualizes Independent Component Analysis (ICA) applied to S&P 500 stock data, showing sector-wise distributions of three extracted components (IC1, IC2, IC3) and their pairwise relationships to reveal latent risk factors influencing stock performance.
+Description: After feature selection, do a systematic Independent Comonent Analysis of S& P 500 Stock Data with case study(again a chosen IC).
 
-Keywords:         ICA, volatility, tail risk, S&P 500, latent risk factors
+Submitted: 23 July 2022
 
-Author:           Jack Xie
+Keywords:
+- 'Stock Data'
+- ''Independent Component Analysis'
+- 'Factor'
+- 'Kurtosis'
+- 'Skewness'
+- 'Cluster'
+- 'volatility'
 
-Submitted:        23.07.2025
+Output:
+- 'Project_Group7.pptx'
+- 'OurWork Flow Chart.png'
+- 'S& P Dataset_ICA1.ipynb''
+- 'S&P500_ICA_Flow Chart'
+- 'OurWork.png'
+- 'metainfo_Group7.txt'
+
+Author: XiLong, JinhaoGuo, HaoranLi
