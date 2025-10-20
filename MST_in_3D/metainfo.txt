@@ -1,1 +1,11 @@
+Name of Quantlet: MST_in_3D
 
+Published in: DEDA_2025_CUEB
+
+Description: This code generates a 3D visualization of points sampled from a multivariate normal distribution, overlays a Minimum Spanning Tree (MST) connecting those points, and then creates a rotating animation of the plot with a transparent background, saving it as a high-quality ProRes MOV file using FFmpeg.
+
+Submitted: 23 July 2022
+
+Keywords: 3D visualization, Multivariate normal distribution, Minimum Spanning Tree (MST), Matplotlib 3D plotting
+
+Author: XiLong
