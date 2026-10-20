@@ -13,7 +13,7 @@ Description: This file explains what polar coordinates are, plots a movable anim
 
 Submitted: 10 July 2025
 
-Keywords: 
+Keywords: Complex analysis 'Fourier Transform' 'Web scraping' 'Data visualization' 'Image processing' 'FFT filtering' 'Computational mathematics' 'CUEB'
 
 Output: 
 - gtoup 1.key
