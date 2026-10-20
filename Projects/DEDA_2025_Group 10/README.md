@@ -13,9 +13,9 @@ Description: Uses ARIMA model to predict Beijing's GDP, combines time series ana
 
 Submitted: 23 Jul 2025
 
-Keywords: 
+Keywords: ARIMA model 'Beijing GDP' 'time series analysis' 'word cloud' 'policy impact' 'GDP prediction'
 
-Output: 
+Output: ‘all_years_word_data.json’ ‘wordcloud2_2021.png’ ‘wordcloud2_2022.png’ ‘wordcloud2_2023.png’ ‘wordcloud2_2024.png’ ‘wordcloud2_2025.png’ ‘grouped_bar.png’ ‘keyword_heatmap.png’ ‘keyword_sankey.html’ ‘keyword_stream.html’
 
 Author: Shaoyuan Xia, Jiayi Cong, Danni Luo
 
