@@ -9,7 +9,7 @@ Name of Quantlet: DEDA_2025_CUEB/group 4
 
 Published in: DEDA_2025_CUEB
 
-Description: 
+Description: 1.Create rotation plot for slide 17 in SVM. 2.Do SVM on your data of choice.
 
 Submitted: 23 Jul 2025
 
