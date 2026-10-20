@@ -9,9 +9,9 @@ Name of Quantlet: DEDA_2025_Group 10 HW3
 
 Published in: DEDA_2025_CUEB
 
-Description: Implements 3D visualization of normal distributions by constructing a Gaussian distribution with mean μ and covariance matrix Σ, and dynamically displays its probability density surface via a rotating plot.
+Description: Implements 3D visualization of normal distributions by constructing a Gaussian distribution with mean μ and covariance matrix Σ, and dynamically displays its probability density surface via a rotating plot. Re-implements the Linear Discriminant Analysis (LDA) example, optimized based on the original case lRTG1792
 
-Submitted: 11 July 2025
+Submitted: 11 July 2025 Outline： 1.create a N(mu,SIGMA), try in a rotatingplot in 3D 2. Redo the LDAexample lRTG1792
 
 Keywords: 
 - normal distributions
