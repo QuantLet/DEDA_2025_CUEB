@@ -9,13 +9,13 @@ Name of Quantlet: DEDA_2025_Group 10 HW4
 
 Published in: DEDA_2025_CUEB
 
-Description: 
+Description: PCA-reduced 3D visualization with interactive SVM decision plane and support vectors. Do SVM on the diagnosis of breast cancer。
 
 Submitted: 23 Jul 2025
 
-Keywords: 
+Keywords: Support Vector Machine (SVM) 'Principal Component Analysis (PCA)' '3D Visualization' ‘breast cancer’ ‘decision boundary’
 
-Output: 
+Output: ‘SVM 3D Rotating Visualization.mov’ ‘SVM Decision Boundary of breast cancer diagnosis (RBF Kernel).png’ ‘SVM Rotation Plot.png’
 
 Author: Shaoyuan Xia, Jiayi Cong, Danni Luo
 
