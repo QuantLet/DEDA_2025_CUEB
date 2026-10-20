@@ -15,9 +15,9 @@ This project analyzes global EV trends (2010-2024) using IEA data and GEO2023 re
 
 Submitted: 19 Jul 2025
 
-Keywords: 
+Keywords: Electric Vehicles (EV) 'Data Visualization' 'K-means Clustering' 'Hierarchical Clustering' 'Topic Modeling (LDA)' 'Word Cloud Analysis' 'Regression Analysis' 'Charging Infrastructure' 'Policy Impact' 'Battery Technology' 'Market Segmentation'
 
-Output: 
+Output: 2010_2024_Hierarchical_clustering_results.png 2010_2024_kmeans_clustering_results_pca.png charging_infrastructure_impact.png ev_sales_top10_pie_2010_rightlegend.png ev_sales_top10_pie_2015_rightlegend.png ev_sales_top10_pie_2020_rightlegend.png ev_sales_top10_pie_2023_rightlegend.png feature_correlation_heatmap.png geo2023_ev_wordcloud.png geo2023_wordcloud.png kmeans_elbow_plot.png global_ev_sales_share_stacked_area.png global_ev_sales_trend.png geo2023_topic_heatmap.png final_topic_regression_data.csv geo2023_topic_analysis.csv geo2023_word_frequencies.csv regression_analysis_charging_stations.png regression_analysis_ev_penetration_rate.png regression_analysis_ev_sales.png
 
 Author: Jiaqi Li
 
