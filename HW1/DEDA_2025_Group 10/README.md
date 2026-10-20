@@ -11,7 +11,7 @@ Published in: DEDA_2025_CUEB
 
 Description: Introducing the definition of polar coordinates, conversion with Cartesian coordinates, relationships with complex numbers and trigonometric functions; also introduced the codes and parameters of 4-parameter animals such as capybaras and whales, as well as the crawling steps, codes and results of The South China Morning Post.
 
-Submitted: 10 July 2025
+Submitted: 10 July 2025 Outline： 1.explain polar coordinates 2.display your 4 params animals 3.do South CN morning post scrape
 
 Keywords: 
 - Polar coordinates
@@ -21,7 +21,7 @@ Keywords:
 
 Output: 
 - capybara.mp4
-- 南华早报_新闻链接.csv
+- Scraping code of South China Morning Post.py
 
 Author: Danni Luo, Jiayi Cong, Shaoyuan Xia
 
