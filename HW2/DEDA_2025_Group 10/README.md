@@ -17,7 +17,7 @@ Keywords:
 - Random forest
 - Normal distribution
 - (math.) Covariance matrix
--  Interactive visualisations 
+- Interactive visualisations
 
 Output: 
 - 3D PDF Normal Distribution.mov
