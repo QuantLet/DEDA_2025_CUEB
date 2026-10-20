@@ -9,7 +9,7 @@ Name of Quantlet: DEDA_2025_CUEB/group 4
 
 Published in: DEDA_2025_CUEB
 
-Description: 
+Description: 1. create a N(mu,SIGMA), try in a rotatingplot in 3D 2. Redo the LDAexample lRTG1792
 
 Submitted: 23 Jul 2025
 
