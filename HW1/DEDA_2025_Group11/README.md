@@ -15,7 +15,7 @@ This homework demonstrates three computational techniques: generating animated a
 
 Submitted: 10 Jul 2025
 
-Keywords: 
+Keywords: Complex analysis 'Fourier Transform' 'Web scraping' 'Data visualization' 'Image processing' 'FFT filtering' 'Computational mathematics' 'CUEB'
 
 Output: 
 
